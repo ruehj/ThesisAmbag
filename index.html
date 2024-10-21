@@ -49,7 +49,7 @@
         let paymentData = [];
 
         // Fetch the JSON data from the external file
-        fetch('project/paymentData.json')
+        fetch('paymentData.json')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok ' + response.statusText);
