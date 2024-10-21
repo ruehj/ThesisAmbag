@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Jomelle",
+        "Payments": [
+            {"Date": "2024-10-21"}
+        ]
+    },
+    {
+        "Name": "Ted",
+        "Payments": [
+            {"Date": "2024-10-21"}
+        ]
+    },
+    {
+        "Name": "Ruehj",
+        "Payments": [
+            {"Date": "2024-10-21"}
+        ]
+    }
+]
